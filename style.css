@@ -7,13 +7,16 @@
  */
  
 p {
-    property: value;
+    background-color: #f3e8e8;
+
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #000000;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    Border: 2px outset #00FF00;
+    max-width: 200px;
+    max-height: 250px;
 }
